@@ -77,7 +77,7 @@ Visit our [Wiki](../../wiki) for detailed documentation.
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SecurePlugins/secure-subscriptions&type=Date)](https://star-history.com/#SecurePlugins/secure-subscriptions&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SecurePlugins/Secure-Subscriptions&type=Date)](https://star-history.com/#SecurePlugins/Secure-Subscriptions&Date)
 
 ---
 Made with ❤️ by Secure Plugins Team
